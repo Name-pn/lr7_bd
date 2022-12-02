@@ -31,3 +31,4 @@ def get_block_detail(pk: int):
 
 @app.route("/post")
 def sendDate():
+    print(1)
